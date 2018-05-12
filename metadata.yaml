@@ -1,0 +1,34 @@
+_repo: Caspar-Hauser--oder-Die-Tr-gheit-des-Herzens-Roman_25721
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wassermann, Jakob
+    alias: Wassermann, Jacob
+    birthdate: 1873
+    deathdate: 1934
+    gutenberg_agent_id: '6236'
+    url: http://www.gutenberg.org/2009/agents/6236
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Jakob_Wassermann
+    - http://en.wikipedia.org/wiki/Jakob_Wassermann
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2008-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25721'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Hauser, Kaspar, 1812-1833 -- Fiction'
+- !lcsh 'Biographical fiction'
+- !lcc 'PT'
+- !lcsh 'Bayern (Bavaria, Germany : Province) -- Fiction'
+title: Caspar Hauser; oder, Die Trägheit des Herzens, Roman
+url: http://www.gutenberg.org/ebooks/25721
